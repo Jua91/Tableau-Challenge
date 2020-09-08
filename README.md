@@ -9,7 +9,7 @@ https://public.tableau.com/profile/jua.han#!/vizhome/citiBikes/Analysis?publish=
 ## Analysis
 
 ### 1. Number of Records
-Total number of records were 12 billion. People seem to ride more bikes in the summer than in the winter. This is because people are not willing to ride outside in winter due to the cold weather.
+Total number of records were 12 billion. People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather.
 September 2019 had the lowest number of records, while April 2020 had the lowest number of records.
 ![number of records](Images/number_of_records.png)
 
